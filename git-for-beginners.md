@@ -1,5 +1,7 @@
 # Git for Beginners: A Hands-on Tutorial
 
+## Introduction
+
 Git is a tool for tracking changes to files. It lets you save checkpoints, compare versions, and collaborate with other people. This tutorial walks through the basics using a terminal.
 
 ## What you need
